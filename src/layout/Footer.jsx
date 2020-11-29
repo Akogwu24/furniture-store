@@ -97,7 +97,7 @@ const PaymentIcons = styled.div`
     width: 6rem;
 
     &:last-of-type {
-      margin-right: 0;
+      margin-right: 0px;
     }
   }
 `
